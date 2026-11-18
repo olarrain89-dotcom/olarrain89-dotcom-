@@ -1,39 +1,38 @@
 
 # Oscar Larraín
-### Entrepreneur | Business Development | Botanical & Commercial Projects
 
-Empresario y fundador de proyectos comerciales enfocados en desarrollo de negocios, gestión operativa, ventas y creación de marcas.
+**Entrepreneur · Business Development · Botanical Projects**
 
-Actualmente trabajo en el desarrollo de **Vivero Arrayán**, un proyecto orientado al diseño, comercialización y distribución vegetal, con especial atención al mercado mayorista y corporativo.
-
----
-
-## PROJECTS
-
-### Vivero Arrayán
-Estudio vegetal dedicado a la comercialización, distribución y desarrollo de soluciones botánicas para clientes particulares, viveros, paisajistas y empresas.
-
-### Montañita Pizzas
-Proyecto gastronómico independiente especializado en pizza de autor, masa madre y experiencias gastronómicas.
-
-### Rastrova Comercial
-Servicio de apoyo comercial para empresas, enfocado en prospección, seguimiento de oportunidades y gestión de ventas.
+Santiago, Chile
 
 ---
 
-## AREAS OF INTEREST
+### ABOUT
 
-- Business Development
-- Commercial Strategy
-- Operations Management
-- Sales & Distribution
-- Botanical Business
-- Digital Transformation
+Entrepreneur focused on building and developing independent businesses, combining commercial strategy, operations and creative direction.
+
+My current focus is the development of **Vivero Arrayán**, a botanical business dedicated to plant distribution, botanical design and commercial solutions.
+
+### PROJECTS
+
+**01 — Vivero Arrayán**
+
+Botanical studio focused on plant commerce, wholesale distribution and solutions for businesses, nurseries and landscape professionals.
+
+**02 — Montañita Pizzas**
+
+Independent gastronomic project specializing in artisan sourdough pizza and culinary experiences.
+
+**03 — Rastrova Comercial**
+
+Commercial support and sales development for small and medium-sized businesses.
 
 ---
 
-## CURRENT FOCUS
+### FOCUS
 
-Building operational systems and digital infrastructure for Vivero Arrayán.
+Business Development · Operations · Distribution · Sales Strategy · Botanical Commerce
 
-**Location:** Santiago, Chile
+---
+
+*Building businesses with identity, purpose and attention to detail.*
