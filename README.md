@@ -36,3 +36,11 @@ Business Development · Operations · Distribution · Sales Strategy · Botanica
 ---
 
 *Building businesses with identity, purpose and attention to detail.*
+
+---
+
+**OLARRAIN**
+
+Independent ventures · Botanical culture · Business development
+
+*Santiago, Chile · 2026*
